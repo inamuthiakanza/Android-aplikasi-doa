@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Aplikasi Doa</string>
+    <string name="doabanguntidur" translatable="false">alhamdulillahil ladzi ahyana ba da ma amatana wailaihin nusyur \n
+       Artinya :
+       Segala puji bagi Allah yang menghidupkan aku kembali setelah mematikan aku dan kepada Allah akan bangkit
+    </string>
+    <string name="doamautidur" translatable="false">Bismikallahumma ahya wa amutu \n
+        Artinya :
+        Dengan nama Mu ya Allah aku hidup dan mati
+    </string>
+    <string name="doaturunhujan" translatable="false">Alloohumma shoyyiban naafian \n
+        Artinya :
+        Ya Allah, (jadikan hujan ini) hujan yang membawa manfaat
+    </string>
+
+
+
+</resources>
